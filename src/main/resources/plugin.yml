@@ -1,0 +1,9 @@
+name: Example
+version: '${project.version}'
+main: com.github.spook.example.Example
+api-version: 1.19
+description: Simple GUI implementation with Bukkit API
+commands:
+  example:
+    description: Testing the example GUI
+    aliases: [ex]
